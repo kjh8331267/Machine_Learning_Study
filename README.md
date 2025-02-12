@@ -21,7 +21,7 @@
 #### **커리큘럼**
 |주차|내용|발표자|코드|일자|
 |---|:-----|---|---|---|
-|1주차|Machine Learning||||
+|1주차|Machine Learning|[omj](https://github.com/omj3424)|[code](https://github.com/omj3424/Machine_Learning_Study/blob/main/1_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_(Machine_Learning)_.ipynb)|2025.01.15.|
 |2주차|scikit-learn|[Sohee](https://github.com/SoheeKim12)|[code](https://github.com/SoheeKim12/Machine_Learning_Study/blob/main/2_%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0(scikit_learn)_%EC%8B%9C%EC%9E%91_sh.ipynb)|2025.01.21.|
 |3주차|Linear Models||||
 |4주차|Logistic Regression||||
