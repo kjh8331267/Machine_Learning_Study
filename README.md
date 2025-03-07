@@ -23,7 +23,7 @@
 |---|:-----|---|---|---|
 |1주차|Machine Learning|[omj](https://github.com/omj3424)|[code](https://github.com/omj3424/Machine_Learning_Study/blob/main/1_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_(Machine_Learning)_.ipynb)|2025.01.15.|
 |2주차|scikit-learn|[Sohee](https://github.com/SoheeKim12)|[code](https://github.com/SoheeKim12/Machine_Learning_Study/blob/main/2_%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0(scikit_learn)_%EC%8B%9C%EC%9E%91_sh.ipynb)|2025.01.21.|
-|3주차|Linear Models|||2025.03.07.|
+|3주차|Linear Models|[kwanization](https://github.com/kwanization)|[code](https://github.com/kwanization/Machine_Learning_Study/blob/main/_3_%EC%84%A0%ED%98%95_%EB%AA%A8%EB%8D%B8(Linear_Models)_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb)|2025.02.04.|
 |4주차|Logistic Regression|[minsu](https://github.com/seo-minsu)|[code](https://github.com/seo-minsu/machine_learning_study-minsu-/blob/main/_4_%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1_%ED%9A%8C%EA%B7%80(Logistic_Regression)minsu_.ipynb)|2025.03.07.|
 |5주차|Support Vector Machine||||
 |6주차|k Nearest Neighbor||||
