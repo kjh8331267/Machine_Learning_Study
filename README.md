@@ -26,7 +26,7 @@
 |3주차|Linear Models|[kwanization](https://github.com/kwanization)|[code](https://github.com/kwanization/Machine_Learning_Study/blob/main/_3_%EC%84%A0%ED%98%95_%EB%AA%A8%EB%8D%B8(Linear_Models)_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb)|2025.02.04.|
 |4주차|Logistic Regression|[minsu](https://github.com/seo-minsu)|[code](https://github.com/seo-minsu/machine_learning_study-minsu-/blob/main/4_로지스틱_회귀(Logistic_Regression)minsu.ipynb)|2025.03.13.|
 |5주차|Support Vector Machine|[omj](https://github.com/omj3424)|[code](https://github.com/omj3424/Machine_Learning_Study/blob/main/5_%EC%84%9C%ED%8F%AC%ED%8A%B8_%EB%B2%A1%ED%84%B0_%EB%A8%B8%EC%8B%A0(Support_Vector_Machines).ipynb)|2025.04.02.|
-|6주차|k Nearest Neighbor||||
+|6주차|k Nearest Neighbor|[Sohee](https://github.com/SoheeKim12)||2025.04.09.|
 |7주차|Naive Bayes||||
 |8주차|Decision Tree||||
 |9주차|Ensemble||||
