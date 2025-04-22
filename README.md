@@ -29,7 +29,7 @@
 |6주차|k Nearest Neighbor|[Sohee](https://github.com/SoheeKim12)|[code](https://github.com/SoheeKim12/Machine_Learning_Study/blob/main/6_%EC%B5%9C%EA%B7%BC%EC%A0%91_%EC%9D%B4%EC%9B%83_250402.ipynb)|2025.04.09.|
 |7주차|Naive Bayes|[minsu](https://github.com/seo-minsu)|[code2](https://github.com/seo-minsu/machine_learning_study-minsu-/blob/main/Naive_bayes(minsu)3.ipynb)|2025.04.15.|
 |||[omj](https://github.com/omj3424)|[code](https://github.com/omj3424/Machine_Learning_Study/blob/main/7_%EB%82%98%EC%9D%B4%EB%B8%8C_%EB%B2%A0%EC%9D%B4%EC%A6%88_%EB%B6%84%EB%A5%98%EA%B8%B0(Naive_Bayes_Classification).ipynb)|2025.04.15.|
-|8주차|Decision Tree|[Sohee](https://github.com/SoheeKim12)|[code](https://github.com/SoheeKim12/Machine_Learning_Study/blob/main/Decision_Tree_250422.ipynb))|2025.04.22.|
+|8주차|Decision Tree|[Sohee](https://github.com/SoheeKim12)|[code](https://github.com/SoheeKim12/Machine_Learning_Study/blob/main/Decision_Tree_250422.ipynb)|2025.04.22.|
 |9주차|Ensemble||||
 |10주차|XGBoost, LightGBM||||
 |11주차|Clustering||||
