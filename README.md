@@ -30,7 +30,7 @@
 |7주차|Naive Bayes|[minsu](https://github.com/seo-minsu)|[code2](https://github.com/seo-minsu/machine_learning_study-minsu-/blob/main/Naive_bayes(minsu)3.ipynb)|2025.04.15.|
 |||[omj](https://github.com/omj3424)|[code](https://github.com/omj3424/Machine_Learning_Study/blob/main/7_%EB%82%98%EC%9D%B4%EB%B8%8C_%EB%B2%A0%EC%9D%B4%EC%A6%88_%EB%B6%84%EB%A5%98%EA%B8%B0(Naive_Bayes_Classification).ipynb)|2025.04.15.|
 |8주차|Decision Tree|[Sohee](https://github.com/SoheeKim12)|[code](https://github.com/SoheeKim12/Machine_Learning_Study/blob/main/Decision_Tree_250422.ipynb)|2025.04.22.|
-|||[kwanization](https://github.com/kwanization)|[code]([https://github.com/omj3424/Machine_Learning_Study/blob/main/7_%EB%82%98%EC%9D%B4%EB%B8%8C_%EB%B2%A0%EC%9D%B4%EC%A6%88_%EB%B6%84%EB%A5%98%EA%B8%B0(Naive_Bayes_Classification).ipynb](https://colab.research.google.com/github/kwanization/Machine_Learning_Study/blob/main/%EA%B2%B0%EC%A0%95%20%ED%8A%B8%EB%A6%AC(Decision%20Tree).ipynb#scrollTo=fx7Gst0u5gMN))|2025.04.15.|
+|||[kwanization](https://github.com/kwanization)|[code]([https://github.com/omj3424/Machine_Learning_Study/blob/main/7_%EB%82%98%EC%9D%B4%EB%B8%8C_%EB%B2%A0%EC%9D%B4%EC%A6%88_%EB%B6%84%EB%A5%98%EA%B8%B0(Naive_Bayes_Classification).ipynb]([https://colab.research.google.com/github/kwanization/Machine_Learning_Study/blob/main/%EA%B2%B0%EC%A0%95%20%ED%8A%B8%EB%A6%AC(Decision%20Tree).ipynb#scrollTo=fx7Gst0u5gMN](https://github.com/kwanization/Machine_Learning_Study/blob/main/%EA%B2%B0%EC%A0%95%20%ED%8A%B8%EB%A6%AC(Decision%20Tree).ipynb)))|2025.04.15.|
 |9주차|Ensemble||||
 |10주차|XGBoost, LightGBM||||
 |11주차|Clustering||||
