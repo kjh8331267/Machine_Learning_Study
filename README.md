@@ -32,7 +32,7 @@
 |8주차|Decision Tree|[Sohee](https://github.com/SoheeKim12)|[code](https://github.com/SoheeKim12/Machine_Learning_Study/blob/main/Decision_Tree_250422.ipynb)|2025.04.22.|
 |||[kwanization](https://github.com/kwanization)|[code](https://github.com/kwanization/Machine_Learning_Study/blob/main/%EA%B2%B0%EC%A0%95%20%ED%8A%B8%EB%A6%AC(Decision%20Tree).ipynb)|2025.04.22.|
 |9주차|Ensemble|[jo-cho](https://github.com/jo-cho) & [nhrim](https://github.com/nhrim83)|[code](https://github.com/jo-cho/Machine_Learning_Study/blob/main/ensemble.ipynb)|2025.04.29.|
-|10주차|XGBoost, LightGBM|[minsu](https://github.com/seo-minsu) & [omj](https://github.com/omj3424)|[code](https://github.com/seo-minsu/machine_learning_study-minsu-/blob/main/XGBoost_minsu.ipynb)|2025.5.13.|
+|10주차|XGBoost, LightGBM|[minsu](https://github.com/seo-minsu) & [omj](https://github.com/omj3424)|[code1](https://github.com/seo-minsu/machine_learning_study-minsu-/blob/main/XGBoost_minsu.ipynb) & [code2]()|2025.5.13.|
 |11주차|Clustering||||
     
 ----
