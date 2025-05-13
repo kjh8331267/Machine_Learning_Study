@@ -1,5 +1,5 @@
 # 
-# **2025년 Machine Learning Study**
+# **2025 Machine Learning Study**
 - 강의 및 코드 중심 머신러닝 스터디
 
 ## **스터디 목표**
